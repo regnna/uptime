@@ -4,7 +4,7 @@
     "url": "https://t3gallery-sigma-ochre.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/t3gallery-sigma-ochre.vercel.app.ico",
     "slug": "t3-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 2117,
     "timeMonth": 2113,
     "timeYear": 2103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-14": 0
+    }
   }
 ]
