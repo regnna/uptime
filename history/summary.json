@@ -4,19 +4,19 @@
     "url": "https://t3gallery-sigma-ochre.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/t3gallery-sigma-ochre.vercel.app.ico",
     "slug": "t3-gallery",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2103,
-    "timeDay": 972,
-    "timeWeek": 2117,
-    "timeMonth": 2113,
-    "timeYear": 2103,
+    "time": 2104,
+    "timeDay": 1664,
+    "timeWeek": 2147,
+    "timeMonth": 2121,
+    "timeYear": 2104,
     "dailyMinutesDown": {
-      "2025-03-14": 0
+      "2025-03-14": 9
     }
   }
 ]
